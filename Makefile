@@ -9,6 +9,3 @@ cmp:
 	gcc *.o -o bin/App
 clean:
 	rm *.o
-	rm ./bin/App
-r_o:
-	rm *.o
