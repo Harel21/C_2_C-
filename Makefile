@@ -10,3 +10,5 @@ cmp:
 clean:
 	rm *.o
 	rm ./bin/App
+r_o:
+	rm *.o
